@@ -8,6 +8,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -51,4 +53,24 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
