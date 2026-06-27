@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
