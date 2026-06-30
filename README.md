@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -95,6 +96,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
@@ -118,6 +120,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,5 +128,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
