@@ -5,19 +5,21 @@ class Solution {
         }
         Arrays.sort(intervals, Comparator.comparingDouble(a -> a[0]));
 
-        List<int[]> result = new ArrayList<>();
-        int[] newInterval = intervals[0];
-        result.add(newInterval);
+        List<int[]> list = new ArrayList<>();
+        int[] newinterval = intervals[0];
+
+        list.add(newinterval);
 
         for(int[] interval : intervals){
-            if(interval[0] <= newInterval[1]){
-                newInterval[1] = Math.max(newInterval[1], interval[1]);
+            if(interval[0] <= newinterval[1]){
+                newinterval[1] = Math.max(newinterval[1], interval[1]);
             }
             else{
-                newInterval = interval;
-                result.add(newInterval);
+                newinterval = interval;
+                list.add(newinterval);
             }
         }
-        return result.toArray(new int[result.size()][]);
+
+        return list.toArray(new int[list.size()][]);
     }
 }
