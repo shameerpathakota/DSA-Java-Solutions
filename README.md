@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -132,6 +133,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
