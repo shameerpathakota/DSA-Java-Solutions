@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -70,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -192,5 +195,10 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
