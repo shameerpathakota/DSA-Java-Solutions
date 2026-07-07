@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -90,6 +91,7 @@
 | [0013-roman-to-integer](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
