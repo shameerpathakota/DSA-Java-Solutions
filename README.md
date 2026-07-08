@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -131,16 +132,19 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -184,6 +188,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -240,4 +245,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
