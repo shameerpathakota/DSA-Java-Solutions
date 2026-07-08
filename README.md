@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0056-merge-intervals) |
@@ -44,6 +45,7 @@
 | [0018-4sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +165,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -215,4 +219,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
