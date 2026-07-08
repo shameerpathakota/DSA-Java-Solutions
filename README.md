@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Queue
 |  |
 | ------- |
