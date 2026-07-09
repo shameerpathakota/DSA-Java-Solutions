@@ -57,6 +57,7 @@
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -114,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
