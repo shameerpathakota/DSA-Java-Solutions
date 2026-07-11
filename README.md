@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0018-4sum) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
@@ -273,4 +275,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
