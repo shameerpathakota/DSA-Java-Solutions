@@ -14,9 +14,6 @@ class Solution {
     public Node root = new Node();
 
     public void insert(String str){
-        // if(str.length() == 0){
-        //     return;
-        // }
         Node curr = root;
         for(int i = 0; i < str.length(); i++){
             int index = str.charAt(i) - 'a';
@@ -47,7 +44,7 @@ class Solution {
         if(times > 1){
             return;
         }
-        else{
+        else if(times == 1){
             count++;
             findCommon(temp);
         }
@@ -55,9 +52,7 @@ class Solution {
 
     }
     public String longestCommonPrefix(String[] strs) {
-        if(strs.length == 1){
-            return strs[0];
-        }
+
         for(int i = 0; i < strs.length; i++){
             insert(strs[i]);
         }
