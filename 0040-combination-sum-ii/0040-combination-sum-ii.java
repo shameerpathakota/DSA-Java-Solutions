@@ -11,12 +11,15 @@ class Solution {
             result.add(new ArrayList<>(list));
             return;
         }
-        else if(target < 0){
-            return;
-        }
+        // else if(target < 0){
+        //     return;
+        // }
 
         for(int i = start; i < nums.length; i++){
             if(i > start && nums[i] == nums[i-1]) continue;
+            if(nums[i] > target){
+                break;
+            }
             list.add(nums[i]);
             backtrack(nums, target-nums[i], i+1, list, result);
             list.remove(list.size()-1);
