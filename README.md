@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0053-maximum-subarray) |
@@ -256,6 +257,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
