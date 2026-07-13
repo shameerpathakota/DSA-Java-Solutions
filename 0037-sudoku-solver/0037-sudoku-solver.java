@@ -1,0 +1,55 @@
+class Solution {
+
+    boolean isSafe(char[][] board, int row, int col, char d){
+        //row check
+        for(int i = 0; i < 9; i++){
+            if(board[row][i] == d){
+                return false;
+            }
+        }
+        //col check
+        for(int i = 0; i < 9; i++){
+            if(board[i][col] == d){
+                return false;
+            }
+        }
+
+        //grid check
+        int start_i = (row/3) * 3;
+        int start_j = (col/3) * 3;
+
+        for(int k = 0; k < 3; k++){
+            for(int l = 0; l < 3; l++){
+                if(board[start_i+k][start_j+l] == d){
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+    boolean solve(char[][] board){
+        for(int i = 0; i < 9; i++){
+            for(int j = 0; j < 9; j++){
+                if(board[i][j] == '.'){
+                    for(char digit = '1'; digit <= '9'; digit++){
+                        if(isSafe(board, i, j, digit)){
+                            board[i][j] = digit;
+                            if(solve(board) == true){
+                                return true;
+                            }
+                            board[i][j] = '.';
+                        }
+                    }
+
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+    public void solveSudoku(char[][] board) {
+        solve(board);
+    }
+}
