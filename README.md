@@ -316,4 +316,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
