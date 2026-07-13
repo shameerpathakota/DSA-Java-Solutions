@@ -1,6 +1,43 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        Arrays.sort(nums);
+        int n = nums.length;
+        mergesort(nums, 0, n-1);
         return nums;
+    }
+
+    void mergesort(int[] nums, int left, int right){
+        if(left < right){
+            int mid = left + (right - left)/2;
+            mergesort(nums, left, mid);
+            mergesort(nums, mid+1, right);
+            merge(nums, left, mid, right);
+        }
+    }
+
+    void merge(int[] nums, int left, int mid, int right){
+        int[] temp = new int[right - left + 1];
+        int i = left;
+        int j = mid+1;
+        int k = 0;
+        while(i <= mid && j <= right){
+            if(nums[i] <= nums[j]){
+                temp[k++] = nums[i++];
+            }
+            else{
+                temp[k++] = nums[j++];
+            }
+        }
+
+        while(i <= mid){
+            temp[k++] = nums[i++];
+        }
+
+        while(j <= right){
+            temp[k++] = nums[j++];
+        }
+
+        for(i = left, k = 0; k < temp.length; i++,k++){
+            nums[i] = temp[k];
+        }
     }
 }
