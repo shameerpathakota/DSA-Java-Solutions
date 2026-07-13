@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
@@ -244,6 +246,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
@@ -261,6 +264,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0051-n-queens) |
