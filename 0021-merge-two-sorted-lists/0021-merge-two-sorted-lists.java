@@ -10,25 +10,27 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode duplicate = new ListNode(0);
-        ListNode tail = duplicate;
-        // now we have to take two pointers one for list1 and one for list2
-        // then iterate by comparing the values 
-        ListNode f = list1;
-        ListNode s = list2;
-        while(f != null && s != null){
-            if(f.val < s.val){
-                tail.next = f;
-                f = f.next;
+        ListNode ans = new ListNode(0);
+        ListNode temp = ans;
+        ListNode temp1 = list1;
+        ListNode temp2 = list2;
+        while(temp1 != null && temp2 != null){
+            if(temp1.val <= temp2.val){
+                temp.next = temp1;
+                temp1 = temp1.next;
             }
             else{
-                tail.next = s;
-                s = s.next;
+                temp.next = temp2;
+                temp2 = temp2.next;
+
             }
-            tail = tail.next;
+
+            temp = temp.next;
         }
-        if(f != null) tail.next = f;
-        if(s != null) tail.next = s;
-        return duplicate.next;
+
+        if(temp1 != null) temp.next = temp1;
+        if(temp2 != null) temp.next = temp2;
+
+        return ans.next;
     }
 }
