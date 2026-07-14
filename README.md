@@ -202,6 +202,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
