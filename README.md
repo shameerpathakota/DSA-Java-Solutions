@@ -103,6 +103,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
@@ -222,6 +223,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0234-palindrome-linked-list) |
