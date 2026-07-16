@@ -232,6 +232,7 @@
 | [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -313,6 +314,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
@@ -368,4 +370,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
