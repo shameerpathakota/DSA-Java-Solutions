@@ -45,6 +45,7 @@
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -132,6 +133,7 @@
 | [0054-spiral-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -319,6 +321,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
