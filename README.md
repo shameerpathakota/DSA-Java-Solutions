@@ -125,6 +125,7 @@
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -247,6 +249,7 @@
 | [0901-online-stock-span](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
