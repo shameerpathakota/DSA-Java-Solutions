@@ -45,6 +45,7 @@
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -97,6 +98,7 @@
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -370,6 +372,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
