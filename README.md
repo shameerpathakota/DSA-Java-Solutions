@@ -257,6 +257,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -323,6 +325,7 @@
 | ------- |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -398,6 +401,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
