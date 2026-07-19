@@ -259,6 +259,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -271,6 +272,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -283,6 +285,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -322,6 +325,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -395,6 +399,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
