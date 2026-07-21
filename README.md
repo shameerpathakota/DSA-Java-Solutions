@@ -263,6 +263,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -291,6 +292,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -332,6 +334,7 @@
 | [0101-symmetric-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
