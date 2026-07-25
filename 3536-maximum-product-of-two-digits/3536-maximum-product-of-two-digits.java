@@ -1,12 +1,21 @@
 class Solution {
     public int maxProduct(int n) {
-        String s = String.valueOf(n);
-        char[] ch = s.toCharArray();
-        Arrays.sort(ch);
-        String str = new String(ch);
-        int len = str.length();
-        int a = Character.getNumericValue(str.charAt(len-1));
-        int b = Character.getNumericValue(str.charAt(len-2));
-        return a*b;
+        int max1 = 0;
+        int max2 = 0;
+
+        while(n > 0){
+            int digit = n % 10;
+            n = n/10;
+
+            if(digit > max1){
+                max2 = max1;
+                max1 = digit;
+            }
+            else if(digit > max2){
+                max2 = digit;
+            }
+        }
+
+        return max1 * max2;
     }
 }
