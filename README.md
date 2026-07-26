@@ -42,6 +42,7 @@
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
@@ -91,6 +92,7 @@
 | [0075-sort-colors](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +105,7 @@
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3536-maximum-product-of-two-digits) |
