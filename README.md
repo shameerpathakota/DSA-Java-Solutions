@@ -33,6 +33,7 @@
 | [0134-gas-station](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -91,6 +92,7 @@
 | [0056-merge-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
@@ -158,6 +160,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
