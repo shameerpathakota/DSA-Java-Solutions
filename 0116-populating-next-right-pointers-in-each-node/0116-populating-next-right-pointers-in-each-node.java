@@ -24,37 +24,24 @@ class Node {
 class Solution {
     public Node connect(Node root) {
         if(root == null){
-            return root;
+            return null;
         }
 
-        bfs(root);
-        
-        return root;
-    }
+        Node level = root;
 
-    void bfs(Node root){
-        Queue<Node> q = new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            for(int i = 0; i < size; i++){
-                Node temp = q.remove();
-                if(i == size - 1){
-                    temp.next = null;
+        while(level.left != null){
+            Node curr = level;
+            while(curr != null){
+                curr.left.next = curr.right;
+                if(curr.next != null){
+                    curr.right.next = curr.next.left;
                 }
-                else{
-                    Node prev = q.peek();
-                    temp.next = prev;
-
-                }
-
-                if(temp.left != null){
-                    q.offer(temp.left);
-                }
-                if(temp.right != null){
-                    q.offer(temp.right);
-                }
+                curr = curr.next;
             }
+
+            level = level.left;
         }
+
+        return root;
     }
 }
