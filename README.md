@@ -60,6 +60,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -107,6 +108,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
