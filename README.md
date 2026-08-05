@@ -431,6 +431,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -512,6 +513,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Number Theory
 |  |
 | ------- |
@@ -536,6 +538,7 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Quickselect
 |  |
 | ------- |
