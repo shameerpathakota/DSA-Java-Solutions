@@ -60,6 +60,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2742-painting-the-walls](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2742-painting-the-walls) |
@@ -165,6 +166,7 @@
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -506,6 +509,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Trie
 |  |
 | ------- |
