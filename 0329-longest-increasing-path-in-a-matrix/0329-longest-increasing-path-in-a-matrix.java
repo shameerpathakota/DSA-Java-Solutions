@@ -2,41 +2,37 @@ class Solution {
     public int longestIncreasingPath(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
-
         int[][] dp = new int[n][m];
         for(int[] arr : dp){
             Arrays.fill(arr, -1);
         }
 
-        int maxi = 0;
+        int max = 0;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
-                maxi = Math.max(maxi, findseq(i, j, n, m, -1, matrix, dp));
+                max = Math.max(max, solve(i, j, -1, n, m, matrix, dp));
             }
         }
 
-        return maxi;
+        return max;
     }
 
-    int findseq(int i, int j, int n, int m, int prev, int[][] matrix, int[][] dp){
-        if(i < 0 || i == n || j < 0 || j == m || matrix[i][j] <= prev){
+    int solve(int i, int j, int prev, int n, int m, int[][] matrix, int[][] dp){
+        if(i < 0 || i >= n || j < 0 || j >= m || matrix[i][j] <= prev){
             return 0;
         }
-
         if(dp[i][j] != -1){
             return dp[i][j];
         }
 
-        int up = findseq(i-1, j, n, m, matrix[i][j], matrix, dp);
-        int down = findseq(i+1, j, n, m, matrix[i][j], matrix, dp);
-        int left = findseq(i, j-1, n, m, matrix[i][j], matrix, dp);
-        int right = findseq(i, j+1, n, m, matrix[i][j], matrix, dp);
+        int up = solve(i-1, j, matrix[i][j], n, m, matrix, dp);
+        int down = solve(i+1, j, matrix[i][j], n, m, matrix, dp);
+        int left = solve(i, j-1, matrix[i][j], n, m, matrix, dp);
+        int right = solve(i, j+1, matrix[i][j], n, m, matrix, dp);
 
-        int ans = 1 + Math.max(left, Math.max(right, Math.max(up, down)));
+        int ans = 1 + Math.max(up, Math.max(down, Math.max(left, right)));
 
-        dp[i][j] = ans;
+        return dp[i][j] = ans;
 
-        return ans;
     }
 }
-//practice session 39.
