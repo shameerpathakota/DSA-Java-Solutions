@@ -39,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -234,6 +235,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -457,6 +461,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -547,6 +552,7 @@
 | [0101-symmetric-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -577,6 +583,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -613,4 +620,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
