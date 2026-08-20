@@ -20,18 +20,17 @@ class Solution {
             i++;
         }
         
-        int[] result = new int[n];
         int j = 0;
         while(j < list1.size()){
-            result[j] = list1.get(j);
+            nums[j] = list1.get(j);
             j++;
         }
 
         for(int k = 0; k < list2.size(); k++){
-            result[j] = list2.get(k);
+            nums[j] = list2.get(k);
             j++;
         }
 
-        return result;
+        return nums;
     }
 }
