@@ -2,7 +2,6 @@ class Solution {
     public boolean sumGame(String num) {
         int n = num.length();
         
-
         int lcount = 0;
         int rcount = 0;
         int i = 0;
