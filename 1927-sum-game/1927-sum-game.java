@@ -2,25 +2,6 @@ class Solution {
     public boolean sumGame(String num) {
         int n = num.length();
         
-        if(num.indexOf('?') == -1){
-            int i = 0;
-            int j = n/2;
-            int lsum = 0;
-            int rsum = 0;
-
-            while(i < n/2 && j < n){
-                lsum += num.charAt(i) - '0';
-                rsum += num.charAt(j) - '0';
-                i++;
-                j++;
-            }
-            if(lsum == rsum){
-                return false;
-            }
-            else{
-                return true;
-            }
-        }
 
         int lcount = 0;
         int rcount = 0;
