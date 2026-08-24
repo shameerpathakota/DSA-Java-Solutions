@@ -63,6 +63,7 @@
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -150,6 +151,7 @@
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -270,6 +272,7 @@
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [2742-painting-the-walls](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -326,6 +329,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
@@ -631,6 +635,7 @@
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -639,6 +644,7 @@
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -646,6 +652,7 @@
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
