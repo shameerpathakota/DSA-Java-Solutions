@@ -56,6 +56,7 @@
 | [0877-stone-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -240,6 +241,7 @@
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -685,4 +687,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
