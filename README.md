@@ -49,6 +49,7 @@
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
@@ -295,6 +296,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
