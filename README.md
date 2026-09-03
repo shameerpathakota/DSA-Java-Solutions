@@ -88,6 +88,7 @@
 | [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
