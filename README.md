@@ -66,6 +66,7 @@
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -400,6 +401,7 @@
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -556,6 +558,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
 | ------- |
