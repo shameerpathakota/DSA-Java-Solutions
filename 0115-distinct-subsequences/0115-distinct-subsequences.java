@@ -4,26 +4,28 @@ class Solution {
         for(int[] arr : dp){
             Arrays.fill(arr, -1);
         }
-        return helper(s, t, 0, 0, dp);
+        int m = s.length();
+        int n = t.length();
+        return helper(s, t, m, n, dp);
     }
 
-    int helper(String s, String t, int i, int j, int[][] dp){
-        if(j == t.length()){
+    int helper(String s, String t, int m, int n, int[][] dp){
+        if(n == 0){
             return 1;
         }
 
-        if(i == s.length()){
+        if(m == 0){
             return 0;
         }
 
-        if(dp[i][j] != -1){
-            return dp[i][j];
+        if(dp[m][n] != -1){
+            return dp[m][n];
         }
 
-        if(s.charAt(i) == t.charAt(j)){
-            return dp[i][j] = helper(s, t, i+1, j+1, dp) + helper(s, t, i+1, j, dp);
+        if(s.charAt(m-1) == t.charAt(n-1)){
+            return dp[m][n] = helper(s, t, m-1, n-1, dp) + helper(s, t, m-1, n, dp);
         }
 
-        return dp[i][j] = helper(s, t, i+1, j, dp);
+        return dp[m][n] = helper(s, t, m-1, n, dp);
     }
 }
