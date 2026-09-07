@@ -197,6 +197,7 @@
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
@@ -291,6 +292,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
