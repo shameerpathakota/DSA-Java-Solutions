@@ -443,6 +443,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -494,6 +495,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
