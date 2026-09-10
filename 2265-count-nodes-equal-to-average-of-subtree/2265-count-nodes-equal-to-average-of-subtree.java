@@ -14,43 +14,37 @@
  * }
  */
 class Solution {
-    HashMap<TreeNode, Integer> map;
     int result;
+    class Pair{
+        int value;
+        int count;
+
+        public Pair(int value, int count){
+            this.value = value;
+            this.count = count;
+        }
+    }
     public int averageOfSubtree(TreeNode root) {
-        map = new HashMap<>();
         result = 0;
-        count(root);
         solve(root);
         return result;
     }
 
-    int count(TreeNode node){
+    Pair solve(TreeNode node){
         if(node == null){
-            return 0;
+            return new Pair(0, 0);
         }
 
-        int lcount = count(node.left);
-        int rcount = count(node.right);
+        Pair leftsub = solve(node.left);
+        Pair rightsub = solve(node.right);
 
-        map.put(node, lcount+rcount+1);
-        return lcount+rcount+1;
-    }
+        int sum = leftsub.value + rightsub.value + node.val;
+        int number_of_nodes = leftsub.count + rightsub.count + 1;
 
-    int solve(TreeNode node){
-        if(node == null){
-            return 0;
-        }
-
-        int lsum = solve(node.left);
-        int rsum = solve(node.right);
-
-        int avg = lsum+rsum+node.val;
-
-        if(Math.round(avg/map.get(node)) == node.val){
+        if(sum / number_of_nodes == node.val){
             result++;
         }
 
-        return avg;
+        return new Pair(sum, number_of_nodes);
     }
-    
 }
