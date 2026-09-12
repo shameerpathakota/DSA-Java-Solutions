@@ -71,6 +71,7 @@
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -317,6 +318,7 @@
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [2742-painting-the-walls](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
