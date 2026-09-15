@@ -22,7 +22,7 @@ class Solution {
                 int j = L + i - 1;
                 if(i == j) isPalindrome[i][j] = true;//means substring of length 1
                 else if(i+1 == j) isPalindrome[i][j] = (s.charAt(i) == s.charAt(j));
-                else isPalindrome[i][j] = (s.charAt(i) == s.charAt(j) && isPalindrome[i+1][j-1]);
+                else isPalindrome[i][j] = (s.charAt(i) == s.charAt(j)) && isPalindrome[i+1][j-1];
             }
         }
         int[][] dp = new int[n+1][n+1];
