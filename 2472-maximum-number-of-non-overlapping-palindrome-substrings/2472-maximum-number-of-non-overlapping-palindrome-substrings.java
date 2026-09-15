@@ -25,6 +25,8 @@ class Solution {
     }
 
     int solve(String s, int k, int i, int j, int[][] dp){
+        //T.C = O(n^3)
+        //S.C = O(n^2)
         if(i >= n || j >= n) return 0;
         if(dp[i][j] != -1) return dp[i][j];
 
