@@ -129,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -220,6 +221,7 @@
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -320,6 +322,7 @@
 | [0152-maximum-product-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
