@@ -71,6 +71,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
@@ -285,6 +286,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -329,6 +331,7 @@
 | [1140-stone-game-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -501,6 +504,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
@@ -536,6 +540,7 @@
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
