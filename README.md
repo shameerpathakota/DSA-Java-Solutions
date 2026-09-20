@@ -213,6 +213,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
@@ -274,6 +275,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0141-linked-list-cycle) |
@@ -545,6 +547,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
