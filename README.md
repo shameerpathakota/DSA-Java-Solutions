@@ -237,6 +237,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
@@ -474,6 +475,7 @@
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -828,4 +830,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0337-house-robber-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
