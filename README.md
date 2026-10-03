@@ -112,6 +112,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Union-Find
 |  |
 | ------- |
@@ -423,6 +427,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -684,6 +689,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -697,6 +703,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
 |  |
 | ------- |
