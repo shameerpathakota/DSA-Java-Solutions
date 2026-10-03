@@ -221,6 +221,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0076-minimum-window-substring) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0070-climbing-stairs) |
@@ -467,6 +469,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -843,6 +846,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
