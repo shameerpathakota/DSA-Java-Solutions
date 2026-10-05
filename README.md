@@ -241,6 +241,7 @@
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -490,6 +491,7 @@
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -859,6 +861,7 @@
 | [0020-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
