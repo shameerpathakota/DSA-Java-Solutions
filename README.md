@@ -185,6 +185,7 @@
 | [0050-powx-n](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -232,6 +233,7 @@
 | [0125-valid-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -485,6 +487,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -628,6 +631,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
