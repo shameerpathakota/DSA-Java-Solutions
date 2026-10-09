@@ -255,6 +255,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
@@ -397,6 +398,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -510,6 +512,7 @@
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -883,5 +886,6 @@
 | [1021-remove-outermost-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
