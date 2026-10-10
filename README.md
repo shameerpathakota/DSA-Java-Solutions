@@ -263,6 +263,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -293,6 +294,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -518,6 +520,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
