@@ -678,6 +678,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0886-possible-bipartition) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -696,6 +697,7 @@
 | [0079-word-search](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
@@ -781,6 +783,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0886-possible-bipartition) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -815,6 +818,7 @@
 | [0210-course-schedule-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -865,6 +869,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
 | ------- |
