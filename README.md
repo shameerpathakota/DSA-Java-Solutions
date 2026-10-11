@@ -93,6 +93,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2742-painting-the-walls](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2742-painting-the-walls) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -758,6 +759,7 @@
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
