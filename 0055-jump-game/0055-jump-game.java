@@ -16,9 +16,9 @@ class Solution {
         if(dp[index] != -1){
             return dp[index] == 1;
         }
-        // if(index >= n){
-        //     return false;
-        // }
+        if(index >= n){
+            return false;
+        }
 
         for(int i = 1; i <= nums[index]; i++){
             if(solve(nums, n, index+i, dp)){
