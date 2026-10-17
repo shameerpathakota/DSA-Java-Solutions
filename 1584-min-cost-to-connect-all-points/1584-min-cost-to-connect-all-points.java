@@ -3,9 +3,9 @@ class Solution {
         int v;
         int cost;
 
-        public Pair(int v, int c){
+        public Pair(int v, int cost){
             this.v = v;
-            this.cost = c;
+            this.cost = cost;
         }
 
         public int compareTo(Pair p2){
