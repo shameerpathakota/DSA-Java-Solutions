@@ -697,6 +697,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -743,6 +744,7 @@
 | [0239-sliding-window-maximum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
@@ -805,6 +807,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -841,6 +844,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0886-possible-bipartition) |
@@ -940,4 +944,12 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0886-possible-bipartition) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
