@@ -50,7 +50,7 @@ class Solution {
             }
         }
 
-        Queue<Pair> q = new LinkedList<>();
+        PriorityQueue<Pair> q = new PriorityQueue<>();
         q.add(new Pair(k, 0));
 
         while(!q.isEmpty()){
