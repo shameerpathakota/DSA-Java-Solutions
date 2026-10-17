@@ -50,24 +50,31 @@ class Solution {
             }
         }
 
+        boolean[] vis = new boolean[n+1];
+
         PriorityQueue<Pair> q = new PriorityQueue<>();
         q.add(new Pair(k, 0));
 
         while(!q.isEmpty()){
             Pair curr = q.remove();
 
-            for(int i = 0; i < graph[curr.v].size(); i++){
-                Edge e = graph[curr.v].get(i);
+            if(!vis[curr.v]){
+                vis[curr.v] = true;
+                for(int i = 0; i < graph[curr.v].size(); i++){
+                    Edge e = graph[curr.v].get(i);
 
-                int u = e.src;
-                int v = e.dest;
-                int wt = e.wt;
+                    int u = e.src;
+                    int v = e.dest;
+                    int wt = e.wt;
 
-                if(dist[u] + wt < dist[v]){
-                    dist[v] = dist[u]+wt;
-                    q.add(new Pair(v, dist[v]));
+                    if(dist[u] + wt < dist[v]){
+                        dist[v] = dist[u]+wt;
+                        q.add(new Pair(v, dist[v]));
+                    }
                 }
             }
+
+            
         }
 
         for(int i = 1; i < dist.length; i++){
