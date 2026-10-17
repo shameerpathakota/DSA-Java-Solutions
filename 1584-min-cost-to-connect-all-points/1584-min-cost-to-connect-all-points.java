@@ -41,11 +41,11 @@ class Solution {
 
                 for(int i = 0; i < graph[curr.v].size(); i++){
                     Edge e = graph[curr.v].get(i);
-                    int u = e.src;
                     int v= e.dest;
                     int wt = e.wt;
-
-                    pq.offer(new Pair(v, wt));
+                    if(!vis[v]){
+                        pq.offer(new Pair(v, wt));
+                    }
                 }
             }
         }
