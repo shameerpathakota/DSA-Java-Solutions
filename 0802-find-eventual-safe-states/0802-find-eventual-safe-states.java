@@ -14,7 +14,7 @@ class Solution {
     }
 
     boolean dfs(int[][] graph, int[] state, int curr){
-        if(state[curr] == 1 || state[curr] == 3){
+        if(state[curr] == 1){
             return false;//means the curr nodes is involved in the cycle. it is currently in the DFS Path
         }
         if(state[curr] == 2){
@@ -25,7 +25,6 @@ class Solution {
 
         for(int i = 0; i < graph[curr].length; i++){
             if(!dfs(graph, state, graph[curr][i])){
-                state[curr] = 3;
                 return false;
             }
         }
