@@ -154,6 +154,7 @@
 | [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -272,6 +273,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -669,6 +671,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Matrix
 |  |
 | ------- |
