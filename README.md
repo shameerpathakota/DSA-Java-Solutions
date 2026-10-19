@@ -253,6 +253,7 @@
 | [0131-palindrome-partitioning](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -332,6 +333,7 @@
 | [0139-word-break](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -798,6 +800,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -866,6 +869,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
