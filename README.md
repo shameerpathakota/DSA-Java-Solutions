@@ -376,6 +376,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0886-possible-bipartition) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -725,6 +726,7 @@
 | [0337-house-robber-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0337-house-robber-iii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -842,6 +844,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -883,6 +886,7 @@
 | [0207-course-schedule](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
