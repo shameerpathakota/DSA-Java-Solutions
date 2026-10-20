@@ -1,10 +1,10 @@
 class Solution {
     int count = 0;
-    class Node{
+    class Node {
         Node[] children = new Node[26];
         boolean eow = false;
 
-        public Node(){
+        Node(){
             for(int i = 0; i < 26; i++){
                 children[i] = null;
             }
@@ -13,55 +13,57 @@ class Solution {
 
     public Node root = new Node();
 
-    public void insert(String str){
+    public void insert(String s){
         Node curr = root;
-        for(int i = 0; i < str.length(); i++){
-            int index = str.charAt(i) - 'a';
+
+        for(int i = 0; i < s.length(); i++){
+            int index = s.charAt(i) - 'a';
             if(curr.children[index] == null){
                 curr.children[index] = new Node();
             }
             curr = curr.children[index];
         }
+
         curr.eow = true;
     }
 
-    public void findCommon(Node root){
-        if(root == null){
+    void findCommon(Node node){
+        if(node == null){
             return;
         }
-        Node curr = root;
+
+        Node curr = node;
         if(curr.eow){
             return;
         }
+
         Node temp = null;
         int times = 0;
+
         for(int i = 0; i < 26; i++){
             if(curr.children[i] != null){
                 temp = curr.children[i];
                 times++;
-            } 
+            }
         }
+
         if(times > 1){
             return;
         }
+
         else if(times == 1){
             count++;
             findCommon(temp);
         }
-
-
     }
     public String longestCommonPrefix(String[] strs) {
-
-        for(int i = 0; i < strs.length; i++){
-            insert(strs[i]);
+        for(String s : strs){
+            insert(s);
         }
+        
+        findCommon(root);
 
-        findCommon(root);   
-
-        if(count == 0){
-            return "";
-        }
+        if(count == 0) return "";
 
         return strs[0].substring(0, count);
     }
