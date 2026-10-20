@@ -7,11 +7,8 @@ class Solution {
         for(int i = 1; i < n; i++){
             if(nums[i] > nums[i-1]) continue;
 
-            int count = 0;
-            while(nums[i] <= nums[i-1]){
-                count++;
-                nums[i] += 1;
-            }
+            int count = nums[i-1] - nums[i] + 1;
+            nums[i] += count;
             operations += count;
         }
 
