@@ -58,6 +58,7 @@
 | [0605-can-place-flowers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0835-image-overlap) |
@@ -179,6 +180,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -271,6 +273,7 @@
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0720-longest-word-in-dictionary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0856-score-of-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -350,6 +353,7 @@
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [0720-longest-word-in-dictionary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -814,6 +818,7 @@
 | [0014-longest-common-prefix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |
