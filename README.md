@@ -1051,4 +1051,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
