@@ -228,6 +228,7 @@
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2409-count-days-spent-together](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3099-harshad-number) |
@@ -294,6 +295,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
