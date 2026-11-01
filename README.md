@@ -51,6 +51,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -221,6 +222,7 @@
 | [0263-ugly-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0836-rectangle-overlap) |
