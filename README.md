@@ -57,6 +57,7 @@
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -440,6 +441,7 @@
 | [0198-house-robber](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0337-house-robber-iii) |
+| [0542-01-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -732,6 +734,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -908,6 +911,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0733-flood-fill) |
