@@ -84,6 +84,7 @@
 | [1386-cinema-seat-allocation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -668,6 +669,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
