@@ -97,6 +97,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -869,6 +870,7 @@
 | [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
