@@ -1,41 +1,30 @@
 class Solution {
     public int countServers(int[][] grid) {
-        int count = 0;
-        int n = grid.length;
-        int m = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == 1){
-                    if(communicate(grid, i, j)){
-                        count++;
-                    }
+        int[] indexColCount = new int[n];
+        int[] indexRowCount = new int[m];
+
+        //preprocessing..
+        for(int row = 0; row < m; row++){
+            for(int col = 0; col < n; col++){
+                if(grid[row][col] == 1){
+                    indexRowCount[row] += 1;
+                    indexColCount[col] += 1;
                 }
             }
         }
 
-        return count;
-    }
-
-    boolean communicate(int[][] grid, int i, int j){
-        for(int row = 0; row < grid.length; row++){
-            if(row == i){
-                continue;
-            }
-            if(grid[row][j] == 1){
-                return true;
+        int resultServers = 0;
+        for(int row = 0; row < m; row++){
+            for(int col = 0; col < n; col++){
+                if(grid[row][col] == 1 && (indexRowCount[row] > 1 || indexColCount[col] > 1)){
+                    resultServers++;
+                }
             }
         }
 
-        for(int col = 0; col < grid[0].length; col++){
-            if(col == j){
-                continue;
-            }
-            if(grid[i][col] == 1){
-                return true;
-            }
-        }
-
-        return false;
+        return resultServers;
     }
 }
