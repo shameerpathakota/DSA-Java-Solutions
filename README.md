@@ -57,6 +57,7 @@
 | [0480-sliding-window-median](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+| [0500-keyboard-row](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0542-01-matrix) |
@@ -303,6 +304,7 @@
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -392,6 +394,7 @@
 | [0409-longest-palindrome](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0480-sliding-window-median) |
+| [0500-keyboard-row](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0567-permutation-in-string) |
