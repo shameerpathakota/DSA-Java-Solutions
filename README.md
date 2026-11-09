@@ -93,6 +93,7 @@
 | [1563-stone-game-v](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -362,6 +363,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0067-add-binary) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -878,6 +880,7 @@
 | [0743-network-delay-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0912-sort-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -897,6 +900,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
