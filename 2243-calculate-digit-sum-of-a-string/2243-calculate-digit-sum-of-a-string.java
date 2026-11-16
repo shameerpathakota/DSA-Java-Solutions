@@ -1,31 +1,20 @@
 class Solution {
     public String digitSum(String s, int k) {
-        int n = s.length();
+        while(s.length() > k){
+            String nxt = "";
 
-        while(n > k){
-            s = solve(s, k);
-            n = s.length();
+            int n = s.length();
+            for(int i = 0; i < n; i += k){
+                int sum = 0;
+                for(int j = i; j < Math.min(i+k, n); j++){
+                    sum += s.charAt(j) - '0';
+                }
+                nxt += String.valueOf(sum);
+            }
+
+            s = nxt;
         }
 
         return s;
-    }
-
-    String solve(String s, int k){
-        String ans = "";
-
-        for(int i = 0; i < s.length(); i += k){
-            int j = i;
-            int count = 0;
-            int temp = 0;
-            while(j < s.length() && count < k){
-                temp += s.charAt(j) - '0';
-                j++;
-                count++;
-            }
-
-            ans += temp;
-        }
-
-        return ans;
     }
 }
