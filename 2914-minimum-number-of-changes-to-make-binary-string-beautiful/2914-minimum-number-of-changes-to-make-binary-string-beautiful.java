@@ -4,7 +4,7 @@ class Solution {
         int n = s.length();
 
         int changes = 0;
-        for(int i = 0; i < n; i += 2){
+        for(int i = 0; i < n-1; i += 2){
             if(s.charAt(i) == s.charAt(i+1)){
                 continue;
             }
