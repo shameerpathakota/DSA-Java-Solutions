@@ -1,30 +1,16 @@
 class Solution {
     public int minChanges(String s) {
         int count = 0;
-        char ch = s.charAt(0);
+        int n = s.length();
 
         int changes = 0;
-
-        for(int i = 0; i < s.length(); i++){
-            //if current character matches with previous character
-            if(s.charAt(i) == ch){
-                count++;
+        for(int i = 0; i < n; i += 2){
+            if(s.charAt(i) == s.charAt(i+1)){
                 continue;
-            }
-
-            //if current character doesnot equal to previous character..
-            //then check whether the just before substring length is even or odd.
-            //if odd make the change equals change + 1.
-            //if even start counting from here by count = 1;
-            if(count % 2 == 0){
-                count = 1;
             }
             else{
                 changes++;
-                count = 0;
             }
-
-            ch = s.charAt(i);
         }
 
         return changes;
