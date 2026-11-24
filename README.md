@@ -83,6 +83,7 @@
 | [1254-number-of-closed-islands](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1314-matrix-block-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -808,6 +809,7 @@
 | [0835-image-overlap](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1314-matrix-block-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1314-matrix-block-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -1008,6 +1010,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3310-remove-methods-from-project) |
