@@ -159,6 +159,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
@@ -452,6 +453,7 @@
 | [3731-find-missing-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Union-Find
 |  |
@@ -739,6 +741,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1213,4 +1216,16 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/0480-sliding-window-median) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
