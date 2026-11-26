@@ -281,6 +281,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -393,6 +394,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
