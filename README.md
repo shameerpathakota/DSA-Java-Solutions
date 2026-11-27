@@ -115,6 +115,7 @@
 | [2256-minimum-average-difference](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2460-apply-operations-to-an-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -229,6 +230,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -543,6 +545,7 @@
 | [1927-sum-game](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -617,6 +620,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1872-stone-game-viii) |
 | [2256-minimum-average-difference](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2256-minimum-average-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -746,6 +750,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3934-smallest-unique-subarray](https://github.com/shameerpathakota/DSA-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
