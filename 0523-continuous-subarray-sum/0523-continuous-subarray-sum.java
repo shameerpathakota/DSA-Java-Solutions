@@ -7,13 +7,14 @@ class Solution {
         int sum = 0;
         for(int i = 0; i < n; i++){
             sum += nums[i];
-            if(map.containsKey(sum % k)){
-                if(i - map.get(sum % k) >= 2){
+            int rem = sum % k;
+            if(map.containsKey(rem)){
+                if(i - map.get(rem) >= 2){
                     return true;
                 }
             }
             else{
-                map.put(sum%k, i);
+                map.put(rem, i);
             }
         }
 
